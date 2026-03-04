@@ -20,7 +20,7 @@
 
 <p align="left">
 <img alt="Linux logo" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="80" height="80" />
-<img alt="Vim logo" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="80" height="80" />
+<img alt="IntelliJ IDEA logo" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="80" height="80" />
 <img alt="git logo" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="80" height="80" />
 <img alt="Maven logo" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" width="80" height="80" />
 <img alt="Java logo" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80" height="80" />
