@@ -17,7 +17,7 @@
 | **Testing** | JUnit 3-6, AssertJ, Mockito, Testcontainers, WireMock |
 | **DBMS** | Oracle 11-19 |
 
-https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg
+![Java](https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg)
 
 ---
 <p align="center">
