@@ -18,6 +18,7 @@
 | **DBMS** | Oracle 11-19 |
 
 
+<div style="background-color: white; display: inline-block; padding: 10px;">
 <p align="left">
 <img alt="Vim logo" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="64" height="64" />
 <img alt="git logo" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="64" height="64" />
@@ -25,6 +26,7 @@
 <img alt="Java log" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="64" height="64" />
 <img alt="SonarQube logo" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-plain-wordmark.svg" width="64" height="64" />
 </p>
+</div>
 
 ---
 <p align="center">
