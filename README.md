@@ -27,6 +27,7 @@
 <img alt="Apache logo" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="64" height="64" />
 <img alt="Jenkins logo" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="64" height="64" />
 <img alt="SonarQube logo" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-plain-wordmark.svg" width="64" height="64" />
+<img alt="Payara logo" src="https://github.com/payara/Payara/blob/main/payara-logo-blue.png" width="64" height="64" />
 </p>
 
 ---
