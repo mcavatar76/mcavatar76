@@ -9,7 +9,7 @@
 | **OS** | Linux |
 | **Languages** | Java 1.2 - 25, SQL, Bash, Perl, PL/SQL |
 | **Frameworks** | Jakarta EE, Spring |
-| **Application Server** | Payara 4-7 |
+| **Application Server** | Glassfish 2-5, Payara 4-7 |
 | **Middleware** | OpenMQ, RabbitMQ |
 | **Infrastructure** | GitLab, Docker, Kubernetes, Maven, Jenkins |
 | **Testing** | JUnit 3-6, AssertJ, Mockito, Testcontainers, WireMock |
