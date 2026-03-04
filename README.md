@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Sascha 👋
+
+### 🚀 Software Developer in Telecommunications
 
 <!--
 **mcavatar76/mcavatar76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+---
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+</p>
