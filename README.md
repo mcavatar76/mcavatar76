@@ -2,6 +2,16 @@
 
 ### 🚀 Software Developer in Telecommunications
 
+### 🛠 Enterprise Tech-Stack
+
+| Ebene | Technologien |
+| :--- | :--- |
+| **Sprachen** | Java 17/21/25, SQL |
+| **Frameworks** | Jakarta EE, Spring |
+| **Application Server** | Payara 4, 5, 6, 7 |
+| **Infrastruktur** | Docker, Kubernetes, Maven, Jenkins |
+| **Testing** | JUnit 5/6, AssertJ, Mockito, Testcontainers, WireMock |
+
 <!--
 **mcavatar76/mcavatar76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
