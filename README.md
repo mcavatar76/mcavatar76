@@ -6,11 +6,12 @@
 
 | Ebene | Technologien |
 | :--- | :--- |
-| **Sprachen** | Java 17/21/25, SQL |
+| **Sprachen** | Java 1.2 - 25, SQL |
 | **Frameworks** | Jakarta EE, Spring |
-| **Application Server** | Payara 4, 5, 6, 7 |
+| **Application Server** | Payara 4-7 |
 | **Infrastruktur** | Docker, Kubernetes, Maven, Jenkins |
-| **Testing** | JUnit 5/6, AssertJ, Mockito, Testcontainers, WireMock |
+| **Testing** | JUnit 3-6, AssertJ, Mockito, Testcontainers, WireMock |
+| **DBMS** | Oracle 11-19 |
 
 <!--
 **mcavatar76/mcavatar76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
