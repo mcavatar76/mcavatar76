@@ -23,7 +23,9 @@
 <img alt="Vim logo" src="https://github.com/devicons/devicon/blob/master/icons/vim/vim-original.svg" width="64" height="64" />
 <img alt="git logo" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="64" height="64" />
 <img alt="Maven logo" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" width="64" height="64" />
-<img alt="Java log" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="64" height="64" />
+<img alt="Java logo" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="64" height="64" />
+<img alt="Apache logo" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="64" height="64" />
+<img alt="Jenkins logo" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="64" height="64" />
 <img alt="SonarQube logo" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-plain-wordmark.svg" width="64" height="64" />
 </p>
 
