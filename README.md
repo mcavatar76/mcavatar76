@@ -24,7 +24,6 @@
   <img alt="git logo" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="80" height="80" />
   <img alt="Maven logo" src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original-wordmark.svg" width="80" height="80" />
   <img alt="Java logo" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80" height="80" />
-  <img alt="Apache logo" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="80" height="80" />
   <img alt="Jenkins logo" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="80" height="80" />
   <img alt="SonarQube logo" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-plain-wordmark.svg" width="80" height="80" />
   <img alt="Payara logo" src="https://github.com/payara/Payara/blob/main/payara-logo-blue.png" width="80" height="80" />
@@ -32,6 +31,7 @@
 
 <p align="left">
   <img alt="GitLab logo" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="80" height="80" />
+  <img alt="Apache logo" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="80" height="80" />
   <img alt="Elasticsearch logo" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" width="80" height="80" />
 </p>
 
