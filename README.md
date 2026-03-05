@@ -28,6 +28,7 @@
 <img alt="Jenkins logo" src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width="80" height="80" />
 <img alt="SonarQube logo" src="https://github.com/devicons/devicon/blob/master/icons/sonarqube/sonarqube-plain-wordmark.svg" width="80" height="80" />
 <img alt="Payara logo" src="https://github.com/payara/Payara/blob/main/payara-logo-blue.png" width="80" height="80" />
+<img alt="Elasticsearch logo" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" width="80" height="80" />
 </p>
 
 ---
