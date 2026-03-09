@@ -34,6 +34,7 @@
   <img alt="Apache logo" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="80" height="80" />
   <img alt="Spring logo" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="80" height="80" />
   <img alt="Elasticsearch logo" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" width="80" height="80" />
+  <img alt="Asciidoctor logo" src="https://github.com/asciidoctor/brand/blame/main/logo/logo-asciidoctor-color.svg" width="80" height="80" />
 </p>
 
 ---
