@@ -1,8 +1,14 @@
 ## Hi there, I'm Sascha 👋
+**Senior Software Engineer **
 
 ## 👦 About Me
 -  I'm a Computer Science graduate (diploma) from the University of Bielefeld in Germany
 - :phone: As of 2026, I'm working 13 years in the telecommunications industry
+
+## Current Focus
+- experimenting with productivity tricks like Eisenhower Matrix, Eat That Frog, Pomodoro etc.
+- gathering experience using Python to replace Perl
+- trying to push a nearly 20 year old legacy enterprise system originally based upon EJB 2 in the right direction with DDD, CDI, JAX-RS etc.
 
 ## 🛠 Tech-Stack
 
