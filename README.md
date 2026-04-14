@@ -15,7 +15,7 @@
 |  |  |
 | :--- | :--- |
 | **OS** | Linux |
-| **Languages** | Java 1.2 - 25, SQL, Bash, Perl, PL/SQL |
+| **Languages** | Java 1.2 - 25, SQL, Bash, Perl, PL/SQL, Python |
 | **Frameworks** | Java EE 5-8, Jakarta EE 8-11, Spring 3-6 |
 | **Application Server** | Oracle Glassfish 2-4, Payara Server 4-7 |
 | **Middleware** | OpenMQ 3-6, RabbitMQ |
@@ -39,6 +39,7 @@
   <img alt="GitLab logo" src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" width="80" height="80" />
   <img alt="Apache logo" src="https://github.com/devicons/devicon/blob/master/icons/apache/apache-original-wordmark.svg" width="80" height="80" />
   <img alt="Spring logo" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="80" height="80" />
+  <img alt="OpenAPI logo" src="https://github.com/devicons/devicon/blob/master/icons/openapi/openapi-original-wordmark.svg" width="80" height="80" />
   <img alt="Elasticsearch logo" src="https://github.com/devicons/devicon/blob/master/icons/elasticsearch/elasticsearch-original-wordmark.svg" width="80" height="80" />
   <img alt="Asciidoctor logo" src="https://github.com/asciidoctor/brand/blob/main/logo/logo-asciidoctor-color-stacked.svg" width="80" height="80" />
 </p>
